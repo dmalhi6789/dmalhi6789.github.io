@@ -3,8 +3,6 @@ title: Python is back
 layout: post
 author: dilraj.malhi
 permalink: /python-is-back/
-tags:
-- 
 source-id: 1x-5vMd7xexu8Y6FmN2MgKqWouPyImdkZ8e-jQrdSbjg
 published: true
 ---
